@@ -2,17 +2,17 @@
   "inventory": [
     {
       "MaterialTitle": {
-        "Name": "123456",
-        "PN": "gk",
-        "MF": "gk.pcb"
+        "Name": "12345678",
+        "PN": "vk",
+        "MF": "vk"
       },
       "MID": "MID20251",
       "MD": "sdgwff",
       "MT": "Electrical Material",
       "MQNT": 2,
-      "MCost": 300.0,
       "MQATG": "#CLASS_0",
       "ML": "",
+      "MCost": 300,
       "MDS": "",
       "MAF1": "",
       "MAF2": "",
